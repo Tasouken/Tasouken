@@ -1,5 +1,7 @@
 ## Good evening sir.
-I'm the **Undying Entity**. Musician and philosopher, I'm an apprentice at my hobbies. Satori Komeiji is my wife.
+I'm the **Undying Entity**. Musician and aspiring programmer.
+
+[新book](https://entity.atabook.org)
 
 ## About Me
 I create passion projects, enjoy a cup of tea, and watch television during my leisure time.
