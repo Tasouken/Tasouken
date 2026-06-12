@@ -4,7 +4,9 @@ Welcome to my comfy box, I'm the **Utopian Entity**.
 
 ## About Me
 
-Musician and aspiring programmer. I enjoy making things, and I hope you revel in my musings.
+Musician and aspiring programmer. I enjoy making things, and I hope you revel in my musings. 
+
+Here, [check out my unfinished website.](https://namelesslegend.neocities.org/)
 
 ## Support
 
