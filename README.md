@@ -1,6 +1,6 @@
 ## Good evening good sir.
 
-Welcome to my comfy box, I'm the **Utopian Entity**.
+Welcome to my comfy box, I'm the **Utopian Entity**, but my friends call me Finn.
 
 ## About Me
 
