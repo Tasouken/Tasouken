@@ -6,8 +6,6 @@ Welcome to my comfy box, I'm the **Utopian Entity**.
 
 Musician and aspiring programmer. I enjoy making things, and I hope you revel in my musings. 
 
-Here, [check out my unfinished website.](https://namelesslegend.neocities.org/)
-
 ## Support
 
 If you value my portfolio, best thing I ask of you is to direct a nice letter for me, or issue inquiries regarding my works.
