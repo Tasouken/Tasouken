@@ -4,7 +4,7 @@ Welcome to my comfy box, I'm the **Utopian Entity**, but my friends call me Finn
 
 ## About Me
 
-Website: (work in progress) <br>
+Website: [kantoku](https://kantoku.neocities.org/)
 
 Musician and aspiring programmer. I fancy making things and I hope you revel in my creations.
 
