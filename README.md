@@ -1,7 +1,7 @@
 ## ◢◤◢◤ Greetings ◢◤◢◤
 
 ```yaml
-Welcome to my comfy box, I'm Tasouken, but my friends call me Finn.
+Welcome to my comfy box, I'm the Utopian Entity, but my friends call me Finn.
 ```
 
 <hr>
