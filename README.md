@@ -1,15 +1,29 @@
-## Good evening good sir.
+## ◢◤◢◤ Greetings ◢◤◢◤
 
-Welcome to my comfy box, I'm the **Utopian Entity**, but my friends call me Finn.
+```yaml
+Welcome to my comfy box, I'm Tasouken, but my friends call me Finn.
+```
 
-## About Me
+<hr>
 
-Website: [kantoku](https://kantoku.neocities.org/) (unfinished)
+## ◢◤◢◤ About Me ◢◤◢◤
 
+Website: [kantoku](https://kantoku.neocities.org/)
+
+My website is unfinished and being updated continuously.
+
+```yaml
 Musician and aspiring programmer. I fancy making things and I hope you revel in my creations.
+````
 
-## Support
+<hr>
 
-If you value my portfolio, best thing I ask of you is to direct a nice letter for me, or issue inquiries regarding my works.
+## ◢◤◢◤ Support ◢◤◢◤
+
+```yaml
+If you value my portfolio, best thing I ask of you is to direct a nice letter for me!
+```
 
 [新book](https://entity.atabook.org)
+
+<hr>
