@@ -1,6 +1,6 @@
 ## ◢◤◢◤ Greetings ◢◤◢◤
 
-Welcome to my comfy box, I'm the Utopian Entity, but my friends call me Finn.
+Welcome to my comfy box, call me Finn.
 
 <hr>
 
