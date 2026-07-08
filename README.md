@@ -8,7 +8,7 @@ Welcome to my comfy box, call me Finn.
 
 My Websites: [kantoku](https://kantoku.neocities.org/) / [yokubo](https://yokubo.neocities.org/)
 
-Musician and aspiring programmer. I fancy making things and I hope you revel in my creations.
+Musician, philosopher, and aspiring programmer. I fancy making things and I hope you revel in my creations.
 
 <hr>
 
