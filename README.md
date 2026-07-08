@@ -6,7 +6,7 @@ Welcome to my comfy box, call me Finn.
 
 ## ◢◤◢◤ About Me ◢◤◢◤
 
-Website: [kantoku](https://kantoku.neocities.org/) / [yokubo](https://yokubo.neocities.org/)
+My Websites: [kantoku](https://kantoku.neocities.org/) / [yokubo](https://yokubo.neocities.org/)
 
 Musician and aspiring programmer. I fancy making things and I hope you revel in my creations.
 
