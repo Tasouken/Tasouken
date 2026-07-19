@@ -8,8 +8,6 @@ Welcome to my comfy box, call me Finn.
 
 ## ◢◤◢◤ About Me ◢◤◢◤
 
-My Website: [yokubo](https://yokubo.neocities.org/)
-
 Musician, philosopher, and aspiring programmer. I fancy making things and I hope you revel in my creations.
 
 <hr>
