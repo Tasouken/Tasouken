@@ -6,7 +6,7 @@ Welcome to my comfy box, call me Finn.
 
 ## ◢◤◢◤ About Me ◢◤◢◤
 
-Website: [yokubo](https://yokubo.neocities.org)
+Website: [seikyu](https://seikyu.neocities.org/)
 
 Musician, philosopher, and aspiring programmer. I fancy making things and I hope you revel in my creations.
 
