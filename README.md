@@ -14,7 +14,7 @@ Musician, philosopher, and aspiring programmer. I fancy making things and I hope
 
 ## ◢◤◢◤ Support ◢◤◢◤
 
-[新book](https://yokubo.atabook.org) — If you value my portfolio, best thing I ask of you is to direct a nice letter for me or link my button -- no hotlinking!
+[新book](https://seikyu.atabook.org/) — If you value my portfolio, best thing I ask of you is to direct a nice letter for me or link my button -- no hotlinking!
 
 <hr>
 
