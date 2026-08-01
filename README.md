@@ -6,7 +6,7 @@ Welcome to my comfy box, call me Seikyu or Finn.
 
 ## ◢◤◢◤ Support ◢◤◢◤
 
-[新book](https://seikyu.atabook.org/) — If you value my portfolio, consider leaving me nice comments or linking my button to your website. Feel free to hotlink, but it ain't recommended because the link might break.
+[新book](https://seikyu.atabook.org/) — If you value my portfolio, consider leaving me nice comments or linking my button to your website or page.
 
 <hr>
 
