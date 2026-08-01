@@ -1,20 +1,12 @@
-## ◢◤◢◤ Greetings ◢◤◢◤
+## ◢◤◢◤ Velkommen ◢◤◢◤
 
 Welcome to my comfy box, call me Seikyu or Finn.
 
 <hr>
 
-## ◢◤◢◤ About Me ◢◤◢◤
-
-Website: [seikyu](https://seikyu.neocities.org/)
-
-Musician, philosopher, and aspiring programmer. I fancy making things and I hope you revel in my creations.
-
-<hr>
-
 ## ◢◤◢◤ Support ◢◤◢◤
 
-[新book](https://seikyu.atabook.org/) — If you value my portfolio, best thing I ask of you is to direct a nice letter for me or link my button -- no hotlinking!
+[新book](https://seikyu.atabook.org/) — If you value my portfolio, consider leaving me nice comments or linking my button to your website. Feel free to hotlink, but it ain't recommended because the link might break.
 
 <hr>
 
