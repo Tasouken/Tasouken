@@ -1,6 +1,6 @@
 ## ◢◤◢◤ Greetings ◢◤◢◤
 
-Welcome to my comfy box, call me Finn.
+Welcome to my comfy box, call me Seikyu or Finn.
 
 <hr>
 
