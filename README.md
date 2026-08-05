@@ -1,4 +1,4 @@
-<img width="1080" height="360" alt="windows" style="image-rendering: pixelated;" src="https://github.com/user-attachments/assets/894c10ff-4f36-423f-b05f-c309a7b97238"/>
+<img width="1080" height="360" alt="windows" src="https://github.com/user-attachments/assets/894c10ff-4f36-423f-b05f-c309a7b97238"/>
 
 ## ◢◤◢◤ Velkommen ◢◤◢◤
 
