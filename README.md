@@ -1,3 +1,5 @@
+<img width="1080" height="360" alt="db2fa9f65de613359b9d7203ad29f71c-dithered" src="https://github.com/user-attachments/assets/894c10ff-4f36-423f-b05f-c309a7b97238"/>
+
 ## ◢◤◢◤ Velkommen ◢◤◢◤
 
 <i>"The end is where we begin."</i>
@@ -8,6 +10,6 @@ Welcome to my comfy box, call me <b>Seikyu</b> or <b>Finn.</b> I recommend visit
 
 ## ◢◤◢◤ Support ◢◤◢◤
 
-[新book](https://seikyu.atabook.org/) — If you value my portfolio, consider leaving me nice comments or linking my button to your website or page.
+[新book](https://seikyu.atabook.org/) — If you value my portfolio, consider leaving me nice comments or linking my button to your website.
 
 <hr>
