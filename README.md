@@ -16,4 +16,4 @@ Welcome to my comfy box, call me <b>Seikyu</b> or <b>Finn.</b> I recommend visit
 
 ## ◢◤◢◤ Links ◢◤◢◤
 
-[ModArchive](https://modarchive.org/index.php?request=view_profile&query=98137) | [Disqus](https://disqus.com/by/seikyu/)
+[ModArchive](https://modarchive.org/index.php?request=view_profile&query=98137) | [Disqus](https://disqus.com/by/seikyu/) | [LibraryThing](https://www.librarything.com/profile/Digol) | [Monochrome](https://monochrome.tf/user/@Snufkin)
