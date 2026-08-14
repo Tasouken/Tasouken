@@ -2,7 +2,7 @@
 
 <i>"The end is where we begin."</i>
 
-Welcome to my comfy box, call me <b>Seikyu</b> or <b>Finn.</b> I recommend visiting my website.
+Welcome to my comfy box, I recommend visiting my website. I love chai tea.
 
 <hr>
 
