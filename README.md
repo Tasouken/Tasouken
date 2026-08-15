@@ -2,7 +2,7 @@
 
 <i>"The end is where we begin."</i>
 
-Welcome to my comfy box, I recommend visiting my website. I love chai tea.
+Welcome to my comfy box, I recommend visiting my website.
 
 <hr>
 
